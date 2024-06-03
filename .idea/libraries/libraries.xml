@@ -5,6 +5,9 @@
     </CLASSES>
     <JAVADOC />
     <SOURCES />
+    <excluded>
+      <root url="jar://$PROJECT_DIR$/src/libraries/selenium-java-4.15.0-sources.jar!/" />
+    </excluded>
     <jarDirectory url="file://$PROJECT_DIR$/src/libraries" recursive="false" />
   </library>
 </component>
